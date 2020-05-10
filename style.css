@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Pacifico&display=swap');
+button{
+   padding:3vmin;
+   background-color: greenyellow;
+   border-width:0;
+   font-family:acme;
+}
+
+h3{
+   color: maroon;
+   font-weight:bold;
+   font-family: cursive;
+}
+p{
+   color: navy;
+   font-family:pacifico;
+}
+     
